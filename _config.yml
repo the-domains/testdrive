@@ -1,0 +1,28 @@
+name: Testdrive
+favicon: null
+layout_spectrum: 0.23120939638465643
+typography_spectrum: 0.574734173482284
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3064958930481225
+  lightness: 0.13743302505463362
+  saturation: 0.7787195902783424
+  rhythmicContrast: 0.30605792277492583
+purpose: []
